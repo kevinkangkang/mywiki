@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My Wiki]]></title>
+        <description><![CDATA[The wiki of kevinkangkang.]]></description>
+        <link>https://wiki.kevinkangkang.fun/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 12 Apr 2020 03:48:22 GMT</lastBuildDate>
+        <atom:link href="https://wiki.kevinkangkang.fun/rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[kevinkangkang]]></author>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <link>https://wiki.kevinkangkang.fun/</link>
+            <guid isPermaLink="true">https://wiki.kevinkangkang.fun/</guid>
+            <dc:creator><![CDATA[kevinkangkang]]></dc:creator>
+        </item>
+    </channel>
+</rss>
