@@ -2,15 +2,15 @@
     <channel>
         <title><![CDATA[My Wiki]]></title>
         <description><![CDATA[The wiki of kevinkangkang.]]></description>
-        <link>https://wiki.kevinkangkang.fun/</link>
+        <link>https://wiki.kevinkangkang.site/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2020 05:07:16 GMT</lastBuildDate>
-        <atom:link href="https://wiki.kevinkangkang.fun/rss" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 May 2020 05:49:33 GMT</lastBuildDate>
+        <atom:link href="https://wiki.kevinkangkang.site/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kevinkangkang]]></author>
         <item>
             <title><![CDATA[Introduction]]></title>
-            <link>https://wiki.kevinkangkang.fun/</link>
-            <guid isPermaLink="true">https://wiki.kevinkangkang.fun/</guid>
+            <link>https://wiki.kevinkangkang.site/</link>
+            <guid isPermaLink="true">https://wiki.kevinkangkang.site/</guid>
             <dc:creator><![CDATA[kevinkangkang]]></dc:creator>
         </item>
     </channel>
